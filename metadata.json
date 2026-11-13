@@ -1,0 +1,6 @@
+{
+  "name": "AI Generator Fully Website",
+  "description": "Free full-AI website generator from scratch with live responsive preview, conversational AI revisions, auto-localization, PWA installability, and 1-click Netlify publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
